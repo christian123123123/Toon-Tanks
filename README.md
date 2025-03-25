@@ -40,7 +40,7 @@ You take control of a tank and navigate through a level filled with stationary e
 
 ---
 
-## 📷 Screenshots (optional)
+## 📷 Screenshot
 
 ![Screenshot 2025-03-24 171713](https://github.com/user-attachments/assets/8dc64ae7-ca38-4ef1-807c-3b3be0da8e4a)
 
